@@ -31,9 +31,9 @@ for i in range(10):
     main_number = 0
     main_number += salary
 ________________________________________________________________________________
+
 factorial = 1
 number = int(input(''))
 for i in range(2, number + 1):
     factorial *= i
 print('ответ:', factorial)
-________________________________________________________________________________
