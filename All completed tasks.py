@@ -895,3 +895,4 @@ number = int(input('Введите число, факториал которог
 for start_number in range(1, number + 1):
     start_result *= start_number
 print('Факториал числа', number, 'равен', start_result)
+===================================================================================================
